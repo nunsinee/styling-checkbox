@@ -1,8 +1,8 @@
-# styling-checkbox
+# Styling-checkbox
 
-Style The Checkbox with JS, CSS and html
+Styling Checkbox with JS, CSS and html
 
-# Yay Company design with React-Bootstrap & Styled Components
+# Screenshort
 
 ![image](./styledCheckbox.png)
 
